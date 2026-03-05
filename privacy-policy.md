@@ -14,7 +14,7 @@ Siftr ("we", "our", or "us") is a mobile application operated by Jonas Persson, 
 
 **Jonas Persson**  
 Sweden  
-Email: jonas@iamjonas.se
+Issues: [Open an issue](https://github.com/iamjonas/policys/issues)
 
 ---
 
