@@ -1,6 +1,5 @@
-# Terms of Use
 
-**Effective date:** March 5, 2026
+*Effective date: March 5, 2026*
 
 These Terms of Use ("Terms") govern your use of the Peila mobile application ("App") operated by Jonas Persson ("we", "us", "our"). By downloading or using Peila, you agree to these Terms.
 
@@ -16,10 +15,10 @@ You create an account using your email address or a third-party sign-in provider
 
 Peila offers a free tier and a paid Pro subscription.
 
-- **Free tier:** Limited to 1 weekly reset and 2 active goals.
-- **Pro tier:** Unlimited resets, up to 7 goals, energy map, pattern insights, and calendar sync. Priced at EUR 14.99/month or EUR 99/year.
+- **Free tier:** Limited to 1 weekly analysis, 3 active goals, and 3 active habits.
+- **Pro tier:** Unlimited analyses, up to 7 goals, 10 habits, AI habit schedule, pattern insights, and calendar sync. Priced at $4.99/month or $34.99/year.
 
-Subscriptions are billed through Apple App Store or Google Play. Payment is charged to your App Store or Google Play account at confirmation of purchase. Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current billing period. You can manage or cancel your subscription in your device's subscription settings.
+Subscriptions are billed through Apple App Store. Payment is charged to your App Store account at confirmation of purchase. Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current billing period. You can manage or cancel your subscription in your device's subscription settings.
 
 ## 4. Acceptable Use
 
@@ -60,4 +59,4 @@ These Terms are governed by the laws of Sweden, without regard to conflict of la
 
 ## 12. Contact
 
-Questions about these Terms? [Open an issue](https://github.com/iamjonas/policys/issues).
+Questions about these Terms? Reach us at [github.com/iamjonas/policys/issues](https://github.com/iamjonas/policys/issues).
