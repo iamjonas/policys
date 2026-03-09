@@ -1,4 +1,3 @@
-
 *Effective date: March 5, 2026*
 
 This Privacy Policy explains how Peila ("App"), operated by Jonas Persson ("we", "us", "our"), collects, uses, and protects your information.
