@@ -1,4 +1,3 @@
-
 *Effective date: March 5, 2026*
 
 These Terms of Use ("Terms") govern your use of the Peila mobile application ("App") operated by Jonas Persson ("we", "us", "our"). By downloading or using Peila, you agree to these Terms.
