@@ -1,0 +1,49 @@
+# Integritetspolicy — Hapning
+
+*Senast uppdaterad: 2026-03-13*
+
+## Vem ansvarar för appen?
+
+Hapning utvecklas och drivs av Jonas Persson (iamjonas.se).
+Kontakt: jonas@iamjonas.se
+
+## Vilka uppgifter samlar vi in?
+
+### Platsdata
+- Appen frågar om tillåtelse att använda din plats för att visa evenemang nära dig.
+- Din plats skickas aldrig till tredje part.
+- Du kan när som helst välja en plats manuellt istället, eller neka platstillgång helt.
+
+### Sparade evenemang
+- Evenemang du sparar lagras lokalt på din enhet.
+- Ingen information om dina sparade evenemang lämnar din telefon.
+
+## Vad vi INTE gör
+
+- Vi säljer aldrig dina uppgifter.
+- Vi använder inga analys- eller spårningsverktyg.
+- Vi visar ingen reklam.
+- Vi delar inga uppgifter med tredje part utöver vad som krävs för att appen ska fungera (Firebase-infrastruktur).
+
+## Tredjepartstjänster
+
+| Tjänst | Syfte | Integritetspolicy |
+|--------|-------|-------------------|
+| Firebase Cloud Firestore | Lagring av evenemangsdata | [Google Privacy](https://policies.google.com/privacy) |
+
+## Datalagring och radering
+
+- All lokal data kan raderas genom att avinstallera appen.
+- Appen skapar inga användarkonton och lagrar inga personuppgifter på våra servrar.
+
+## Barns integritet
+
+Appen samlar inte medvetet in uppgifter från barn under 13 år.
+
+## Ändringar
+
+Vi kan uppdatera denna policy. Vid väsentliga ändringar uppdateras datumet ovan. Fortsatt användning av appen innebär att du godkänner den uppdaterade policyn.
+
+## Kontakt
+
+Frågor om din integritet? Mejla jonas@iamjonas.se.
