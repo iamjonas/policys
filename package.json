@@ -1,0 +1,17 @@
+{
+  "name": "policy-documents",
+  "version": "1.0.0",
+  "description": "Legal and policy documents repository",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0",
+    "glob": "^10.3.0"
+  },
+  "keywords": ["policy", "legal", "privacy", "terms"],
+  "license": "UNLICENSED",
+  "private": true
+}
